@@ -3,6 +3,7 @@
 ---
 
 🔭 About Me
+
 I'm currently an MS BAPM student at the University of Connecticut. Over the course of my time, I've learned a lot about valuable project management principles, modeling techniques, various different tools/applications, and explored many different topics such as predictive modeling, text mining, big data, etc. I've completed different internships/co-ops over my time across different industries, helping implement the knowledge I've gained into real-world issues and business problems. 
 
 ---
